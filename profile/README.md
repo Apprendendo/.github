@@ -1,5 +1,5 @@
 # Olá, somos o Apprendendo 👋
-[![Conheça o Site](https://img.shields.io/badge/Apprendendo-blue?style=for-the-badge&logo=rss&logoColor=white)](https://apprendendo.blog)
+[![Conheça o Site](https://img.shields.io/badge/Site-blue?style=for-the-badge&logo=rss&logoColor=white)](https://apprendendo.blog)
 
 O Apprendendo nasceu da convicção de que o conhecimento deve ser aberto, acessível e construído coletivamente. Mais do que um blog, somos uma comunidade dedicada à aprendizagem contínua, onde estudantes, professores, pesquisadores, desenvolvedores, designers e entusiastas da tecnologia encontram espaço para compartilhar experiências, produzir conteúdo e desenvolver projetos que gerem impacto positivo.
 
