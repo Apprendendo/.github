@@ -1,13 +1,16 @@
 title: Apprendendo
 description: GitHub oficial de Apprendendo.blog
-# Tema escolhido
 theme: jekyll-theme-architect
 
-# Configuração de URLs para o subdomínio e subpasta
 url: "https://apprendendo.github.io"
-baseurl: "/github"
+baseurl: "/.github"
 
-# Garante que a pasta docs e seus arquivos sejam processados pelo Jekyll
 include:
   - docs
   - profile
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
